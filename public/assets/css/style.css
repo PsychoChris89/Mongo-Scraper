@@ -1,0 +1,24 @@
+body {
+    background-image: url("/assets/images/abundance-blur-bundle-167538.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family: 'Cormorant SC', serif;
+}
+
+.jumbotron .background-image {
+    background-color: white;
+}
+
+.deleteNote {
+	display: inline-block;
+}
+
+.previousNotes {
+    display: inline-block;
+    width: 90%
+}
+
+#scrape {
+    margin: 8px 0px;
+}
